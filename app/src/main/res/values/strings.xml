@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">My Assignment</string>
+    <string-array name="title_array">
+        <item>Transformers</item>
+        <item>EA FC25</item>
+        <item>Persona 5</item>
+        <item>Gears of War</item>
+        <item>Forza Horizon 5</item>
+        <item>Marvels Spider-Man</item>
+        <item>Uncharted 4</item>
+        <item>Halo 3</item>
+        <item>Control</item>
+        <item>Kingdom Hearts 2</item>
+    </string-array>
+    <string-array name="date_array">
+        <item>2012</item>
+        <item>2024</item>
+        <item>2017</item>
+        <item>2004</item>
+        <item>2021</item>
+        <item>2018</item>
+        <item>2016</item>
+        <item>2008</item>
+        <item>2019</item>
+        <item>2004</item>
+    </string-array>
+    <string-array name="platform_array">
+        <item>PC</item>
+        <item>PC</item>
+        <item>PS4</item>
+        <item>Xbox</item>
+        <item>Xbox</item>
+        <item>PS4</item>
+        <item>Xbox</item>
+        <item>PC</item>
+        <item>PC</item>
+        <item>PS4</item>
+    </string-array>
+    <string-array name="genre_array">
+        <item>Shooter</item>
+        <item>Sport</item>
+        <item>JRPG</item>
+        <item>Action</item>
+        <item>Racing</item>
+        <item>Adventure</item>
+        <item>FPS</item>
+        <item>Action</item>
+        <item>TPS</item>
+        <item>RPG</item>
+    </string-array>
+    <string-array name="developer_array">
+        <item>Activision</item>
+        <item>EA</item>
+        <item>Atlus</item>
+        <item>Microsoft</item>
+        <item>Playground</item>
+        <item>Sony</item>
+        <item>Insomniac</item>
+        <item>Bungie</item>
+        <item>Remedy</item>
+        <item>Square Enix</item>
+    </string-array>
+    <string-array name="rating_array">
+        <item>8.6</item>
+        <item>7.2</item>
+        <item>9.5</item>
+        <item>9.1</item>
+        <item>8.0</item>
+        <item>8.8</item>
+        <item>9.2</item>
+        <item>9.0</item>
+        <item>8.5</item>
+        <item>8.7</item>
+    </string-array>
+</resources>
